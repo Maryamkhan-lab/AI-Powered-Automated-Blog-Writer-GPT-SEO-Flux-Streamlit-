@@ -1,0 +1,16 @@
+fastapi==0.95.1
+uvicorn==0.22.0
+langchain
+Pillow==9.5.0
+requests==2.31.0
+python-docx==0.8.11
+tqdm==4.66.1
+reportlab==3.6.12
+streamlit==1.25.0
+python-dotenv==1.0.0
+huggingface_hub==0.17.1
+langchain_openai
+pymongo
+langchain_openai
+langchain_groq
+requests
